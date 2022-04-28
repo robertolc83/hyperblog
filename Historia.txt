@@ -5,3 +5,5 @@ Roberto Lopez tiene 38 años y nació en Colombia
 Hoy hablaremos de su historia.
 
 En persona parece joven pero no lo es tanto.
+
+Estudiando el curso de git en este momento.
